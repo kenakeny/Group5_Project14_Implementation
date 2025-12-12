@@ -4,6 +4,7 @@ This project is for Group 5, Logic and AI module.
 The project implements a Cloud & Fog Resource Allocation System using the NSGA-II (Non-Dominated Sorting Genetic Algorithm II).  
 The application includes a full Python GUI built using **Tkinter** and **Matplotlib**, allowing users to configure environment parameters, load tasks, run the optimizer, and visualize the resulting Pareto-optimal solutions.
 
+Github Project Link: https://github.com/kenakeny/Group5_Project14_Implementation/blob/main/README.md
 ---
 
 ## Features
