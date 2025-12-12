@@ -1,0 +1,6 @@
+#extra parameters for the functions
+FOG_BASE_DELAY = 2
+CLOUD_BASE_DELAY = 10
+FOG_DELAY_FACTOR = 0.8
+CLOUD_DELAY_FACTOR = 0.4
+URGENCY_PENALTY = 5
