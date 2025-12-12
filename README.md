@@ -1,4 +1,4 @@
-# Cloud Resource Allocation Using NSGA-II — GUI Application
+# Cloud Resource Allocation Using NSGA-II —
 
 This project is for Group 5, Logic and AI module.
 The project implements a Cloud & Fog Resource Allocation System using the NSGA-II (Non-Dominated Sorting Genetic Algorithm II).  
@@ -8,7 +8,7 @@ The application includes a full Python GUI built using **Tkinter** and **Matplot
 
 ## Features
 
-### nsga2 Optimization
+### NSGA2 Optimization
 - Fast non-dominated sorting    
 - Tournament,Roulette wheel and Random selection  
 - Crossover and mutation operations  
@@ -24,12 +24,15 @@ The application includes a full Python GUI built using **Tkinter** and **Matplot
 ---
 
 ## Project Structure
-GroupX5_Project14_Implementation/
+```
+Group5_Project14_Implementation/
 ├── src/                          # All source code files
 │   ├── main.py                   # Main entry point
-│   ├── NSGA.py             # First algorithm implementation
+│   ├── NSGA.py                   # First algorithm implementation
 │   ├── gui.py                    # GUI implementation
 │   ├── utils.py                  # Helper functions and parameters
+│
 ├── requirements.txt              # Required Python libraries
 ├── README.md                     # Setup and execution instructions
 └── UserManual.pdf                # How to use your application
+```
